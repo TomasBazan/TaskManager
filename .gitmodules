@@ -1,0 +1,6 @@
+[submodule "TaskManager_front"]
+	path = TaskManager_front
+	url = https://github.com/TomasBazan/TaskManager_front
+[submodule "TaskManager_API"]
+	path = TaskManager_API
+	url = https://github.com/TomasBazan/TaskManager_API
